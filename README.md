@@ -15,7 +15,6 @@
 <h3> 🛠 &nbsp;Tech Stack <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"></h3>
 
 - 💻 &nbsp;
- 
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
   ![LaTex](https://img.shields.io/badge/-LaTex-333333?style=flat&logo=LaTex)
   ![C++](https://img.shields.io/badge/-c++-black?logo=c%2B%2B&style=social)
