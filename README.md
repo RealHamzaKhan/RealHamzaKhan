@@ -15,6 +15,7 @@
 <h3> 🛠 &nbsp;Tech Stack <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"></h3>
 
 - 💻 &nbsp;
+  ![Dart](![image](https://user-images.githubusercontent.com/96855608/194861738-a584d702-ed1f-4e4b-ba5a-6a843e236e8f.png))
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
   ![LaTex](https://img.shields.io/badge/-LaTex-333333?style=flat&logo=LaTex)
   ![C++](https://img.shields.io/badge/-c++-black?logo=c%2B%2B&style=social)
@@ -45,13 +46,13 @@
 
 <p align='center'>
   
-  <a href="https://api.whatsapp.com/send?phone=923329541219">
+  <a href="https://api.whatsapp.com/send?phone=923146973314">
     <img src="https://img.shields.io/badge/WHATSAPP-%2325D366.svg?&style=for-the-badge&logo=whatsapp&logoColor=white" />    
   </a>&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/hamza-raziq-khan-423137208/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;&nbsp;
-  <a href="https://www.instagram.com/hamza_kingdom/">
+  <a href="https://www.instagram.com/hamzakhan_kingdom/">
     <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />        
   </a>&nbsp;&nbsp;
   <a href="https://twitter.com/HamzaKh58867769">
