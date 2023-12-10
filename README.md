@@ -15,6 +15,7 @@
 <h3> 🛠 &nbsp;Tech Stack <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"></h3>
 
 - 💻 &nbsp;
+  ![Flutter](https://img.shields.io/badge/-Flutter-333333?style=flat&logo=flutter)
   ![Dart](https://img.shields.io/badge/-Dart-333333?style=flat&logo=dart)
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
   ![LaTex](https://img.shields.io/badge/-LaTex-333333?style=flat&logo=LaTex)
@@ -33,6 +34,7 @@
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
   ![Sublime](https://img.shields.io/badge/-Sublime-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
+  ![Android Studio](https://img.shields.io/badge/-Android%20Studio-333333?style=flat&logo=android)
 
 <br/>
 <br>
